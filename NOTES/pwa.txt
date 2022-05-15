@@ -1,12 +1,12 @@
 =====[PROGRESSIVE WEB APPS]========================================================================
 
-npm add next-pwa
-CREATE A PWA manifest.json FILE
+=> npm install next-pwa
 
+=> CREATE A PWA manifest.json FILE WHICH 
+CONTAINS METADATA ABOUT THE APPLICATION. THE 
+BROWSER WILL INTERPRET THIS.
 
-
-
-
+https://www.simicart.com/manifest-generator.html/
 
 
 
