@@ -1,6 +1,6 @@
 # PWA-NextJS-Tutorial
 
-![image](https://user-images.githubusercontent.com/55777067/168456901-6812a956-3f50-430f-9691-468efc6b7a4e.png)
+![image](https://user-images.githubusercontent.com/55777067/168456972-b9bf0166-994f-4c3d-889b-dcf097295b18.png)
 
 ## Using next-pwa plugin
 ![image](https://user-images.githubusercontent.com/55777067/168456837-63231077-86b2-4cb1-afc7-59ce293a729f.png)
