@@ -1,0 +1,14 @@
+=====[PROGRESSIVE WEB APPS]========================================================================
+
+npm add next-pwa
+CREATE A PWA manifest.json FILE
+
+
+
+
+
+
+
+
+
+
