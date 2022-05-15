@@ -1,4 +1,4 @@
-# PWA-Next.JS-Tutorial
+# PWA + Next.JS Tutorial
 
 ![image](https://user-images.githubusercontent.com/55777067/168456972-b9bf0166-994f-4c3d-889b-dcf097295b18.png)
 
